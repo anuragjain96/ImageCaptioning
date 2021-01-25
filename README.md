@@ -15,9 +15,9 @@ We recommended to use Anaconda for the following packages.
 
 Dataset
 ----------
-Flickr8k dataset has been used <br>
+Flickr8k dataset has been used. <br>
 The vocabulary and the captions file has been added to the data/f8k directory. <br>
-You need to save the flivkr8k images in data/f8k/images/ directory.
+You need to save the flickr8k images in data/f8k/images/ directory.
 
 Training
 ----------
